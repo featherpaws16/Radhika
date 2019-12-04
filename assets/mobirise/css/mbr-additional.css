@@ -6342,7 +6342,7 @@ body {
   font-weight: 300;
 }
 .cid-rIS6aLPL8Y .mbr-content-text {
-  color: #274954;
+  color: #b2ccd2;
   margin-bottom: 0;
 }
 .cid-rIS6aLPL8Y .card {
@@ -6411,7 +6411,10 @@ body {
   flex-direction: row-reverse;
 }
 .cid-rIS6aLPL8Y .count {
-  color: #f5ba7d;
+  color: #b2ccd2;
+}
+.cid-rIS6aLPL8Y P {
+  color: #2e2e2e;
 }
 .cid-rF5GgyMQA6 {
   padding-top: 30px;
